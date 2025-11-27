@@ -30,7 +30,7 @@ Git · GitHub
 
 ## 📂 Proyectos Destacados
 
-- **Proyecto 1** – breve descripción  
+- **Proyecto 1** – PAP
 - **Proyecto 2** – breve descripción  
 - **Proyecto 3** – breve descripción  
 
@@ -41,8 +41,8 @@ Git · GitHub
 
 ## 🌐 Contacto
 
-- 📧 Email: tuemail@example.com  
-- 💼 LinkedIn: enlace  
-- 🌍 Portafolio: enlace  
+- 📧 Email: a14207@agrcanelas.com  
+- 💼 LinkedIn:------  
+- 🌍 Portafolio:------
 
 ---
