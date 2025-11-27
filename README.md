@@ -36,15 +36,6 @@ Git · GitHub
 
 *(Puedes editarlos y agregar tus repositorios reales)*
 
----
-
-## 📊 Mis estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
-
-*(Reemplaza **TU_USUARIO** por tu usuario de GitHub)*
 
 ---
 
